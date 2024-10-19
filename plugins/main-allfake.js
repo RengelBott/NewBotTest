@@ -57,11 +57,11 @@ global.waittt = 'ღ 𝑬𝒔𝒑𝒆𝒓𝒆 𝑺𝒐𝒚 𝑳𝒆𝒏𝒕𝒂.
 global.waitttt = 'ღ 𝑬𝒔𝒑𝒆𝒓𝒆 𝑺𝒐𝒚 𝑳𝒆𝒏𝒕𝒂...'
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'  
-var canal2 = 'https://whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
+var canal = ''  
+var canal2 = ''
 var git = 'https://github.com/EnzikOFC' 
-var youtube = 'https://www.youtube.com/@Enzito-19' 
-var github = 'https://github.com/EnzikOFC/YurineBot-MD' 
+var youtube = '' 
+var github = '' 
 var facebook = '' 
 var panel = ''
 var dash = ''
@@ -70,7 +70,7 @@ var status = ''
 var discord = ''
 var paypal = ''
 let tiktok = ''
-let correo = 'yurinebotmd@gmail.com'
+let correo = ''
 
 global.redes = [canal, canal2, git, youtube, github, facebook, panel, dash, tienda, status, discord, paypal, tiktok, correo].getRandom()
 
