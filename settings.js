@@ -17,7 +17,7 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5491168758497', 'Creator 👑', true]
+   ['972527282076', 'Creator 👑', true]
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -31,14 +31,14 @@ global.prems = []
 global.isBaileysFail = false
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.7'
-global.nameqr = '𝐘𝐮𝐫𝐢𝐧𝐞𝐁𝐨𝐭-𝐌𝐃'
+global.nameqr = 'RengelSxnt'
 global.sessions = 'YurineSession'
 global.jadi = 'YurineJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 🎀 𝒴𝓊𝓇𝒾𝓃𝑒𝐵❁𝓉-𝑀𝒟 🎀 ✰⪜'
-global.botname = 'уυяιηє - вσт - м∂'
+global.packname = '𝐑𝐄𝐍𝐆𝐄𝐋 𝐒𝐗𝐍𝐓'
+global.botname = 'яєηgєℓ - вσт - м∂'
 global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ YυɾιɳҽBσƚ ☄︎'
 global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ EnzoOfc ᰔᩚ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ MoonLight 𝗍ᥱᥲm ⚡︎'
@@ -58,17 +58,17 @@ global.avatar = fs.readFileSync('./media/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //YaemoriBot
-global.grupo2 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //YaemoriBot2
-global.grupo3 = 'hhttps://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //team oficial
-global.grupo4 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //GataBot & YaemoriBot
-global.grupo5 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //Curiosity & YaemoriBot
-global.channel = 'https://www.whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
-global.channel2 = 'https://www.whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
-global.md = 'https://github.com/EnzikOFC/YurineBot-MD' 
-global.yt = 'https://www.youtube.com/@Enzito-19'
+global.grupo = '' //YaemoriBot
+global.grupo2 = '' //YaemoriBot2
+global.grupo3 = '' //team oficial
+global.grupo4 = '' //GataBot & YaemoriBot
+global.grupo5 = '' //Curiosity & YaemoriBot
+global.channel = ''
+global.channel2 = ''
+global.md = '' 
+global.yt = ''
 global.tiktok = ''
-global.correo = 'yurinebotmd@gmail.com'
+global.correo = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
