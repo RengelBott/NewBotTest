@@ -38,11 +38,11 @@ global.jadi = 'YurineJadiBot'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = '𝐑𝐄𝐍𝐆𝐄𝐋 𝐒𝐗𝐍𝐓'
-global.botname = 'яєηgєℓ - вσт - м∂'
-global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ YυɾιɳҽBσƚ ☄︎'
-global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ EnzoOfc ᰔᩚ'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ MoonLight 𝗍ᥱᥲm ⚡︎'
-global.textbot = '𝒀𝒖𝒓𝒊𝒏𝒆𝑩𝒐𝒕-𝑴𝑫 : Ξｎｚｉｔｏ♢ｆｃ ✔︎'
+global.botname = '𝑹𝒆𝒏𝒈𝒆𝒍𝑩𝒐𝒕-𝑴𝑫'
+global.wm = 'by 𝑹𝒆𝒏𝒈𝒆𝒍𝑩𝒐𝒕-𝑴𝑫'
+global.author = 'dev Rengel'
+global.dev = 'dev 𝑹𝒆𝒏𝒈𝒆𝒍𝑩𝒐𝒕-𝑴𝑫 ⚡︎'
+global.textbot = '𝑹𝒆𝒏𝒈𝒆𝒍𝑩𝒐𝒕-𝑴𝑫'
 global.vs = '2.0.6'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
