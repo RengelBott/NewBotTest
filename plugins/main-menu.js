@@ -157,11 +157,11 @@ const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ?
 
 const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://qu.ax/zJqn.jpg')
 
-await conn.reply(m.chat, '╭ׅׄ̇─ׅ̻ׄ╮۪̇߭︹ׅ̟ׄ̇︹ׅ۪ׄ̇߭︹ׅ̟ׄ̇⊹۪̇߭︹ׅ̟ׄ̇︹ׅ۪ׄ̇߭︹ׅ̟ׄ̇⊹۪̇߭︹ׅ̟ׄ̇︹ׅ۪ׄ̇߭︹ׅ̟ׄ̇⊹*\n├ ⚘݄𖠵⃕⁖𖥔.𝑪𝒂𝒓𝒈𝒂𝒏𝒅𝒐 𝑴𝒆𝒏𝒖...  ꪶꪾ❍̵̤̂̂ꫂ\n├Ą𝒈𝒖𝒂𝒓𝒅𝒆 𝒖𝒏 𝒎𝒐𝒎𝒆𝒏𝒕𝒐🌹\n╰ׁ̻─ׅׄ─۪۬─۟─۪─۟─۪۬─۟─۪─۟─۪۬─۟─۪─۟┄۪۬┄۟┄۪┈۟┈۪', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
+await conn.reply(m.chat, 'Enviando menu... aguarde un momento', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
 
 await m.react('🌠') 
 
-await conn.sendMessage(m.chat, {text: text, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: 'Yurine |√ New Channel 💫', newsletterJid: "120363299088086208@newsletter", }, externalAdReply: { title: 'Yurine |√ New Channel ⚡︎', body: dev, thumbnailUrl: 'https://qu.ax/lJVp.jpg', sourceUrl: redeshost, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
+await conn.sendMessage(m.chat, {text: text, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: 'Rengel Melhor bot', newsletterJid: "120363299088086208@newsletter", }, externalAdReply: { title: 'Yurine |√ New Channel ⚡︎', body: dev, thumbnailUrl: 'https://qu.ax/lJVp.jpg', sourceUrl: redeshost, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
 
   } catch (e) {
     await m.react(error)
