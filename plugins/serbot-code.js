@@ -136,9 +136,9 @@ creloadHandler(false);
 }
 serbot();
 };
-handler.help = ['code'];
-handler.tags = ['serbot'];
-handler.command = ['code', 'getcode', 'botcode'];
+handler.help = [''];
+handler.tags = [''];
+handler.command = ['', '', ''];
 // handler.register = true;
 export default handler;
 function sleep(ms) {
