@@ -105,10 +105,10 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/HOHm.jpg',
-'https://qu.ax/yaBy.jpg',
-'https://qu.ax/omUF.jpg',
-'https://qu.ax/omUF.jpg'
+'https://i.postimg.cc/WpJT5Gm8/gigachad-777.webp',
+'https://i.postimg.cc/WpJT5Gm8/gigachad-777.webp',
+'https://i.postimg.cc/WpJT5Gm8/gigachad-777.webp',
+'https://i.postimg.cc/WpJT5Gm8/gigachad-777.webp'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363299088086208@newsletter", serverMessageId: 100, newsletterName: '© Yurine |√ New Channel 💫', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
