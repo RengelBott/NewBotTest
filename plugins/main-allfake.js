@@ -33,10 +33,10 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/5491168758497'
+global.creador = 'Wa.me/972527282076'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
-global.namechannel = '© Yurine |√ New Channel ᥣ 🌱'
+global.namechannel = 'Rengel Bot MD'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
@@ -101,7 +101,7 @@ global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJ
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363299088086208@newsletter', newsletterName: '© Yurine |√ New Channel 💫', serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363299088086208@newsletter', newsletterName: 'Rengel Bot MD', serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
