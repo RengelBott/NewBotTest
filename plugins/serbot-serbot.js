@@ -141,9 +141,9 @@ creloadHandler(false)
 }
 serbot()
 }
-handler.help = ["serbot"]
-handler.tags = ["serbot"]
-handler.command = ["serbot", "jadibot", "qr", "botclone"]
+handler.help = [""]
+handler.tags = [""]
+handler.command = ["", "", "", ""]
 // handler.register = true
 export default handler
 function sleep(ms) {
