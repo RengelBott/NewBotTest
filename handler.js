@@ -90,7 +90,7 @@ if (chat) {
 if (!('isBanned' in chat))
 chat.isBanned = false
 if (!('welcome' in chat))
-chat.welcome = true
+chat.welcome = false
 if (!('audios' in chat))
 chat.audios = false
 if (!('detect' in chat))
