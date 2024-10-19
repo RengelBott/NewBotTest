@@ -21,7 +21,7 @@ await stars.sendMessage(m.chat, { text: responseMessage, mentions: stars.parseMe
 // await conn.reply(m.chat, responseMessage, m, rcanal)
 }
 
-handler.help = ['bots']
-handler.tags = ['serbot']
-handler.command = ['listjadibot', 'bots']
+handler.help = ['']
+handler.tags = ['']
+handler.command = ['', '']
 export default handler
